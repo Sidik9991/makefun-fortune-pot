@@ -6,7 +6,7 @@ An entry for make.fun's **Fortune in a Pot** bounty: one kind, funny fortune for
 ![Rank](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/Sidik9991/makefun-fortune-pot/rank.svg)
 ![Reward](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/Sidik9991/makefun-fortune-pot/reward.svg)
 
-Bounty page: https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9
+Bounty page: [Fortune in a Pot on make.fun](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9)
 
 ## The fortune
 

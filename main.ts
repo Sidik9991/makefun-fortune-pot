@@ -54,6 +54,18 @@ const CANDIDATES: Candidate[] = [
     text: "Your future holds a bigger pot, a sunnier sill, and a keeper humming slightly off-key.",
     scores: [2, 1, 2, 2, 2],
   },
+  {
+    text: "Soon you will photosynthesize so smugly that the fern across the room asks for your secret.",
+    scores: [2, 2, 1, 2, 2],
+  },
+  {
+    text: "A ladybug will visit at noon, bringing luck, gossip, and absolutely no aphids.",
+    scores: [2, 2, 2, 2, 1],
+  },
+  {
+    text: "You will outgrow your pot by spring, and your keeper will brag about it like it was their idea.",
+    scores: [2, 2, 2, 2, 1],
+  },
 ];
 
 function weighted(c: Candidate): number {
